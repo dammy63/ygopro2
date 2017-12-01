@@ -1,0 +1,36 @@
+1. Gideon (New Master Rule, TCG)
+IP: 50.53.229.66 Port: 7911 Version: 0x233e
+This is a new server based off of Mercury. The difference is that this server isn't in Chinese and is for TCG Players. It includes Link monsters and the new master rules. You can do all the same things in this server like the one above by typing the appropriate key for password. You can duel the AI by typing "ai" without quotes in the password. Type "M" for matches and "T" in the password field for tags. You can duel your friends by selecting any password and having your friend type the same password. For example, if I type "M123" and my friend also types "M123", then both of us will be paired for a match. Same for tags. This server is used by Percy and YGOMobile also.
+ 
+For Single no password needed.
+For Match, M
+For Tag, T
+For TCG only cards, TO#
+For OCG only cards, OO#
+For a LP change, LPxxxxxx#     (XXXX = the number)
+For time limit change, TMXXX#   (XXX = the number. Limit is 999)
+For starting hand change, STXX#  (XX = the number, no greater then 60)
+
+For draw change (card you draw per turn), DRXX   (XX = the number, no greater then 35)
+
+For banlist change, LFX#     (X = a number less then 9. TCG = 1, OCG = 2, World = 3)
+
+For no banlist, NF#
+For no check deck, NC#
+For no shuffle, NS#
+For priority rules (beta), PR#
+To apply mutible rules, you must the setting with a , with a # at the end.
+For example, if I want tag with 20000 LP, OCG banlist, it would be
+LF2,LP20000,T#
+ 
+2. Gideon (Master Rule 3, TCG)
+IP: 50.53.229.66 Port: 8911 Version: 0x133D
+This server is for players who wish to still use the old rules and play by the TCG banlist.
+ 
+3. Mercury (New Master Rule, OCG)
+IP: s1.ygo233.com Port: 23333 Version: 0x233e
+The ygo2333 server is the beta server for links. This server has been around since April 2nd, 2017. This is the same one that you may have seen on youtube and be called "ADS" or "YGOCORE". It is hosted by Mercury233 in China and because of that, the default banlist is OCG!! So make sure your decks are valid as per the latest ocg banlist.
+ 
+4. Mercury (Master Rule 3, OCG)
+IP: 118.178.111.167 Port: 233 Version: 0x133d
+This is the regular Chinese server with Master Rules 3.
